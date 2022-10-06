@@ -8,6 +8,8 @@ AlphabetSoup, a Charity Foundation whom has donated over $10B in the past 20 yea
 - python
 - Google Colabortory
 
+<img width="1053" alt="Screen Shot 2022-10-05 at 8 44 45 PM" src="https://user-images.githubusercontent.com/105556091/194195932-86428186-043c-4d18-8a2b-b9f30c44368b.png">
+
 
 
 ## Results
